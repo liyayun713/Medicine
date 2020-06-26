@@ -4,6 +4,9 @@
 
 ## [痛风](https://github.com/miracle90/Medicine/blob/master/docs/Gout.md)
 
+* 肾尿酸盐结晶
+* 前列腺回声欠均匀
+
 ## 感冒
 
 ## 胃病
